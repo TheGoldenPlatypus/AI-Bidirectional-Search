@@ -6,5 +6,5 @@ Bidirectional search replaces single search graph(which is likely to grow expone
 
  ## 📸 Screenshots
 
-![alt text](https://github.com/TheGoldenPlatypus/FireChat/blob/master/bd_screenshots/bd_screenshot.png?raw=true)
+![alt text](https://github.com/TheGoldenPlatypus/AI Bidirectional Search/blob/master/bd_screenshots/bd_screenshot.png?raw=true)
 
